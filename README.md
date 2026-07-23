@@ -4,7 +4,7 @@
 
 This project analyzes sales and profitability data from the Global Superstore dataset using Microsoft Excel. The analysis focuses on identifying key business trends, evaluating profitability, and developing actionable recommendations based on sales performance.
 
-## Project Objective
+## Business Objective
 
 The objective of this project is to analyze sales and profit performance across different markets, regions, categories, and subcategories while identifying opportunities to improve business performance.
 
