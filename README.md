@@ -38,7 +38,6 @@ The *Apple smartphone** was the top-selling individual product, generating **$86
 
 Total sales increased by **90.3%**, growing from **$2.26M in 2011** to **$4.30M**. Sales increased consistently each year, indicating strong overall growth and positive momentum throughout the analysis period.
 
-
 ## Business Recommendations
 
 - Investigate the factors contributing to losses within the **Tables** subcategory, including pricing, discounting, shipping costs, and individual product performance.
@@ -52,6 +51,14 @@ Total sales increased by **90.3%**, growing from **$2.26M in 2011** to **$4.30M*
 - Focus resources on **high-performing product categories and regions** while developing targeted strategies to improve underperforming areas.
 
 - Use ongoing profitability and return-rate monitoring to support **data-driven pricing, product, and market decisions**.
+
+## Dataset
+
+**Source:** Global Superstore dataset
+
+**Dataset Contents:** The dataset contains sales, profit, order, product, market, region, and returned order information used to evaluate business performance from 2011 to 2014.
+
+**Note:** The dataset was obtained from a publicly available source and was used for educational and portfolio purposes. The analysis was conducted using the original dataset to demonstrate data cleaning, analysis, visualization, and business insight development
 
 ## Tools & Methodology
 
@@ -71,6 +78,28 @@ Total sales increased by **90.3%**, growing from **$2.26M in 2011** to **$4.30M*
 
 The dataset was cleaned and prepared before analysis. Pivot tables were created to evaluate sales, profit, orders, profitability, markets, regions, categories, and subcategories. An interactive dashboard was then developed to summarize key findings and provide a visual overview of business performance from **2011 to 2014**.
 
+## Skills Demonstrated
+
+- Data Cleaning and Preparation
+
+- Excel Data Analysis
+
+- Pivot Table Analysis
+
+- KPI Development
+
+- Dashboard Design
+
+- Data Visualization
+
+- Sales and Profitability Analysis
+
+- Trend Analysis
+
+- Business Insight Development
+
+- Data-Driven Recommendations
+
 ## Dashboard Features
 
 The interactive dashboard provides an overview of:
@@ -88,6 +117,16 @@ The interactive dashboard provides an overview of:
 - Profit margin and key performance indicators
 
 - Returned orders by market
+
+## Limitations
+
+- The dataset covers the period from 2011 to 2014 and may not reflect current market conditions.
+
+- The analysis is based only on the variables available within the dataset.
+
+- External factors such as economic conditions, competitor activity, and broader market trends were not included in the analysis.
+
+- Additional analysis using more recent data and external business factors could provide further insight into current performance and future opportunities
 
 ## Dashboard Preview
 
