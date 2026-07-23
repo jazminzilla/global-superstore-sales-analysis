@@ -24,11 +24,11 @@ The objective of this project is to analyze sales and profit performance across 
 
 ### 2. Profibility Analysis
 
-Technology alsos leads in overall profit with **663,778.73**. However, **Furniture** generated the weakest profitability relative to its sales volume, producing only **$285,204.72 in profit** compared with **Office Supplies' $518,473.83** on a simiilar level of sales. This suggests an opportunity to investigate Furniture's pricing, discounting, and operating costs. 
+Technology alsos leads in overall profit with **$663,778.73**. However, **Furniture** generated the weakest profitability relative to its sales volume, producing only **$285,204.72 in profit** compared with **Office Supplies' $518,473.83** on a simiilar level of sales. This suggests an opportunity to investigate Furniture's pricing, discounting, and operating costs. 
 
 ### 3. Regional Performance
 
-**Central** was the strongest-performing region, generating **2.82M in sales** and **$311,403.98 in profit**. In contrast, **Canada** was the weakest-performing region, with  **66,928.17 in sales** and **17,817.39 in profit**, indicating an opprtunity to investigate regional perfomance and identify potential growth strategies 
+**Central** was the strongest-performing region, generating **$2.82M in sales** and **$311,403.98 in profit**. In contrast, **Canada** was the weakest-performing region, with  **$66,928.17 in sales** and **$17,817.39 in profit**, indicating an opprtunity to investigate regional perfomance and identify potential growth strategies 
 
 ### 4. Product Perfomance
 
@@ -36,7 +36,7 @@ The *Apple smartphone** was the top-selling individual product, generating **$86
 
 ### 5. Market Trends
 
-Total sales increased by **90.3%**, growing from **$2.26M in 2011** to **4.30M**. Sales increased consistently each year, indicating strong overall growth and positive momentum throughout the analysis period.
+Total sales increased by **90.3%**, growing from **$2.26M in 2011** to **$4.30M**. Sales increased consistently each year, indicating strong overall growth and positive momentum throughout the analysis period.
 
 
 ## Business Recommendations
