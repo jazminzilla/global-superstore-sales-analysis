@@ -38,24 +38,56 @@ The *Apple smartphone** was the top-selling individual product, generating **$86
 
 Total sales increased by **90.3%**, growing from **$2.26M in 2011** to **4.30M**. Sales increased consistently each year, indicating strong overall growth and positive momentum throughout the analysis period.
 
+
 ## Business Recommendations
 
-- Investigate the factors contributing to losses within the Tables subcategory, including pricing, discounting, shipping costs, and individual product performance.
-- Evaluate profitability across markets and regions to identify opportunities for growth and improved performance.
-- Monitor returned orders by market to identify potential product or customer service issues.
-- Focus on high-performing product categories and markets while developing strategies to improve underperforming areas.
+- Investigate the factors contributing to losses within the **Tables** subcategory, including pricing, discounting, shipping costs, and individual product performance.
+
+- Evaluate **Furniture's** pricing, discounting, and operating costs to identify opportunities to improve profitability.
+
+- Investigate the performance of the **Canada market** and identify potential opportunities to increase sales and profitability.
+
+- Monitor **returned orders by market** to identify potential product quality, customer satisfaction, or service issues.
+
+- Focus resources on **high-performing product categories and regions** while developing targeted strategies to improve underperforming areas.
+
+- Use ongoing profitability and return-rate monitoring to support **data-driven pricing, product, and market decisions**.
 
 ## Tools & Methodology
 
 - Microsoft Excel
+
 - Data Cleaning and Preparation
+
 - Pivot Tables
+
 - KPI Analysis
+
 - Data Visualization
+
 - Profitability Analysis
+
 - Business Insight Development
 
-The dataset was cleaned and prepared before analysis. Pivot tables were created to evaluate sales, profit, orders, profitability, markets, regions, categories, and subcategories. An interactive dashboard was then developed to summarize key findings and business insights.
+The dataset was cleaned and prepared before analysis. Pivot tables were created to evaluate sales, profit, orders, profitability, markets, regions, categories, and subcategories. An interactive dashboard was then developed to summarize key findings and provide a visual overview of business performance from **2011 to 2014**.
+
+## Dashboard Features
+
+The interactive dashboard provides an overview of:
+
+- Overall sales and profitability performance
+
+- Sales and profit by market and region
+
+- Category and subcategory performance
+
+- Product-level sales analysis
+
+- Order performance and market trends
+
+- Profit margin and key performance indicators
+
+- Returned orders by market
 
 ## Dashboard Preview
 
