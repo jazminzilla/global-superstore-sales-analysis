@@ -20,7 +20,7 @@ The objective of this project is to analyze sales and profit performance across 
 
 ### 1. Sales Performance
 
-**Technology** leads all product catgeories with **$4.74M in sales**, followed by **Furniture ($4.11M)** and **Office Supplies ($3.79M)**. Technology's leading sales perfomance highlights its importance as the company's strongest revenue-generating category. 
+**Technology** leads all product categories with **$4.74M in sales**, followed by **Furniture ($4.11M)** and **Office Supplies ($3.79M)**. Technology's leading sales perfomance highlights its importance as the company's strongest revenue-generating category. 
 
 ### 2. Profibility Analysis
 
