@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This project analyzes sales and profitability data from the Global Superstore dataset using Microsoft Excel. The analysis focuses on identifying key business trends, evaluating profitability, and developing actionable recommendations based on sales performance.
+This project analyzes sales and profitability data from the Global Superstore dataset using Microsoft Excel. The analysis focuses on identifying key business trends, evaluating profitability across markets, regions, categories, and subcategories, and developing actionable recommendations based on sales performance.
 
 ## Business Objective
 
-The objective of this project is to analyze sales and profit performance across different markets, regions, categories, and subcategories while identifying opportunities to improve business performance.
+The objective of this project is to analyze sales and profit performance across different markets, regions, categories, and subcategories while identifying opportunities to improve profitability and overall business performance.
 
 ## Key Performance Indicators
 
@@ -18,10 +18,25 @@ The objective of this project is to analyze sales and profit performance across 
 
 ## Key Business Insights
 
-- The Tables subcategory generated approximately $64,083 in negative profit and was the only subcategory operating at a loss.
-- Sales and profitability performance varied across markets and regions.
-- Returned orders were analyzed by market to identify potential areas for further investigation.
-- Profitability analysis provided insight into which product categories and subcategories contributed most effectively to overall business performance.
+### 1. Sales Performance
+
+**Technology** leads all product catgeories with **$4.74M in sales**, followed by **Furniture ($4.11M)** and **Office Supplies ($3.79M)**. Technology's leading sales perfomance highlights its importance as the company's strongest revenue-generating category. 
+
+### 2. Profibility Analysis
+
+Technology alsos leads in overall profit with **663,778.73**. However, **Furniture** generated the weakest profitability relative to its sales volume, producing only **$285,204.72 in profit** compared with **Office Supplies' $518,473.83** on a simiilar level of sales. This suggests an opportunity to investigate Furniture's pricing, discounting, and operating costs. 
+
+### 3. Regional Performance
+
+**Central** was the strongest-performing region, generating **2.82M in sales** and **$311,403.98 in profit**. In contrast, **Canada** was the weakest-performing region, with  **66,928.17 in sales** and **17,817.39 in profit**, indicating an opprtunity to investigate regional perfomance and identify potential growth strategies 
+
+### 4. Product Perfomance
+
+The *Apple smartphone** was the top-selling individual product, generating **$86,935.78 in sales**. However, the **Tables** subcategory generated a **$64,083.39 loss** despite generating sales, representing the largest profitability gap identified in the dataset and a key area for further investigation. 
+
+### 5. Market Trends
+
+Total sales increased by **90.3%**, growing from **$2.26M in 2011** to **4.30M**. Sales increased consistently each year, indicating strong overall growth and positive momentum throughout the analysis period.
 
 ## Business Recommendations
 
